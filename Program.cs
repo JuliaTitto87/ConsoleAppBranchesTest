@@ -15,6 +15,7 @@ namespace ConsoleAppBranchesTest
             Console.WriteLine("This is the fourth line");
             Console.WriteLine("This is the line five");
             Console.WriteLine("line six");
+            Console.WriteLine("line seven");
         }
     }
 }
